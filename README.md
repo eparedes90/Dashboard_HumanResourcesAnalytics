@@ -1,4 +1,4 @@
-# Human Resources Analysis
+# Human Resources Analytics
 ## Objective
 * Elaborate a Dashboard to look for insights about presence, working days from home, and sick leave percentages of Human Resources Area.
 * Answer these questions:

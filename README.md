@@ -7,6 +7,7 @@
   - Which day of the week has the highest percentage of these three indicators?
 
 ## Strategy
+* Load and tranform the data
 * Use a template as a function with parameters
 * Formulate DAX expressions to elaborate measures
 * Elaborate a Dashboard with the capacity to include more data 

@@ -4,7 +4,7 @@
 * Answer these questions:
   - Which are the percentages of presence, work from home and sick leave by employee and by month?
   - Is there a trend in these three indicators?
-  - Which day of the week has the highest percentage of these three indicators?
+  - Which day of the week has the highest percentage for these three indicators?
 
 ## Strategy
 * Load and tranform the data
@@ -18,5 +18,5 @@
 * READme
 
 # Ackowledgements
-* data and project statement given by codebasics.io
+* Data and project statement given by codebasics.io
 

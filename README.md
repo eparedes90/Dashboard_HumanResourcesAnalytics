@@ -14,9 +14,9 @@
 
 ## Content
 * Attendance Sheet 2022-2023  #Raw data from Human Resources Area
-* Ht Analytics: Power Bi Dashboard
+* HR Analytics: Power Bi Dashboard
 * READme
 
-# Ackowledgements
+## Ackowledgements
 * Data and project statement given by codebasics.io
 

@@ -2,9 +2,9 @@
 ## Objective
 * Elaborate a Dashboard to look for insights about presence, working days from home, and sick leave percentages of Human Resources Area.
 * Answer these questions:
-- Which are the percentages of presence, work from home and sick leave by employee and by month?
-- Is there a trend in these three indicators?
-- Which day of the week has the highest percentage of these three indicators?
+  - Which are the percentages of presence, work from home and sick leave by employee and by month?
+  - Is there a trend in these three indicators?
+  - Which day of the week has the highest percentage of these three indicators?
 
 ## Strategy
 * Use a template as a function with parameters
